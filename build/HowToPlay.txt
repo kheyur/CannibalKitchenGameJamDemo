@@ -1,0 +1,20 @@
+Lore:
+The world’s meat supply has all but diminished, however, you,
+a top-tier gourmet chef seem to have access to the only meat left in the world.
+This makes your restaurant a highly sought after and extremely exclusive venue.
+So what is your trade secret? You use a few of the customer’s human flesh to create your meals.
+A rather simple solution that surprisingly no-one has seemed to think of.
+
+Rules, Controls and Basic Guide:
+The aim of the game is to create dishes by following the recipes as they pop up on your HUD.
+To do this you need meat, this can be obtained from the people that walk into the bathroom stalls
+and placing them in the grinder in the kitchen.
+once grinded the parts will automatically be placed in their respective crates and can be fetched from them.
+To create a dish you must click on the menu on the right and a plate will be spawned.
+Add the correct ingredients to plate and place it on the service table located at the bottom hole in the wall.
+Controls:
+WASD: movement.
+E: interact with objects (People, plates and meat).
+F: retrieve meat from crate.
+Left Mouse: click on buttons to spawn plates.
+Esc: Close application
